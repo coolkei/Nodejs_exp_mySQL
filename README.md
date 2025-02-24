@@ -72,5 +72,5 @@ npm install
 node server.js
 ```
 
-### Environment
+### version
 node 14.21
